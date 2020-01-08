@@ -36,3 +36,8 @@ describe 'Book' do
     end
   end
 end
+
+
+learn spec/01_book_spec.rb
+#book.rb
+class Book
